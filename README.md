@@ -1,2 +1,2 @@
 # interest-project
-IBM GitHub Lab-project
+IBM GitHub Final Project
